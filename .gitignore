@@ -1,0 +1,15 @@
+# окружение и IDE
+.venv/
+venv/
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+
+# словари и результаты — не публикуем
+passwords.txt
+xato-net-10-million-passwords.txt
+wordlist*.txt
+found*.txt
+results*.txt
+*.log
